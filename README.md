@@ -3,6 +3,11 @@
 
 ***Conteúdo do Módulos:***
 
+* [ ] [Lógica e Lógica Para Programação.](https://github.com/Devsgeeknerd/cla-log-log-par-pro-fun-log-par-pro-dar-fun) &#128679;
+* [ ] [Algoritmo.](https://github.com/Devsgeeknerd/cla-alg-fun-log-par-pro-dar-fun) &#128679;
+* [ ] [Como Executar o Código Das Aulas.](https://github.com/Devsgeeknerd/cla-com-exe-cod-das-aul-fun-log-par-pro-dar-fun) &#128679;
+* [ ] [Entendendo a Estrutura de um Programa.](https://github.com/Devsgeeknerd/cla-ent-est-pro-fun-log-par-pro-dar-fun) &#128679;
+
 <!-- Informações -->
 ## &#8505; Informações
 
